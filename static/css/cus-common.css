@@ -1,0 +1,13 @@
+
+
+
+.cus-modal{/* 模態框 */
+	width:60%;
+	position:absolute;
+	z-index:10000;
+	left:22%;
+	top:8%;
+}
+.cus-message-class {/* message彈出框 */
+	top:200px;
+}
